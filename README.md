@@ -12,7 +12,7 @@ _This app is based on Toffeed by JakeLane (https://github.com/JakeLane/Toffeed).
 **Version 1.1:**
 - Pinch to zoom
 - Navbar with Facebook theme colour
-- Code cleaned
+- https://www.facebook.com/profile.php?id=100088745468025&mibextid=ZbWKwL
 - Less ram consumption (compared with Toffeed)
 
 
